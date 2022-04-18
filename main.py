@@ -1,4 +1,4 @@
-"""The code might look a bit confusing because some of the varialiables names are similar to each others"""
+"""The code might look a bit confusing because some of the varialiables names are similar to others"""
 import random as rd, time
 
 # start and end numbers & number of cards each player will have
